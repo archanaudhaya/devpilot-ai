@@ -21,3 +21,12 @@ human-approved pull requests.
 ## Project Status
 
 🚧 Currently under development
+
+
+## Project Goals
+
+- Analyze GitHub repositories.
+- Generate AI-assisted implementation plans.
+- Support controlled code changes.
+- Generate and run tests.
+- Create human-reviewed pull requests.
